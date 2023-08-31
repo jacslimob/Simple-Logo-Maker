@@ -1,0 +1,22 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
